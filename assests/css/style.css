@@ -6,6 +6,10 @@ body{
     font-weight: bold;
 }
 
+.about h4{
+    font-size: 10px;
+}
+
 .name h2{
     font-size: 20px;
     font-weight: bold;
@@ -17,8 +21,9 @@ body{
     display: flex; 
 }
 .profile{
-    margin-top: 90px;
-    margin-left: 150px;
+    margin-top: 70px;
+    margin-left: 70px;
+    padding: 20px;
 }
 .rounded-circle{
     width: 108px;
@@ -36,7 +41,7 @@ body{
 }
 
 .detail{
-    margin: 60px;
+    margin: 30px;
 }
 .detail h4{
     color: white;
@@ -61,7 +66,7 @@ h3{
     font-size: 13px;
 }
 .learn h6{
-    font-size: 13px;
+    font-size: 12px;
     font-weight: bold;
 }
 
@@ -72,8 +77,8 @@ h3{
 }
 
 .connect img{
-    width: 35px;
-    height: 35px;
+    width: 30px;
+    height: 30px;
     padding: 5px;
 }
 
@@ -82,16 +87,31 @@ h3{
 }
 
 .learn p{
-    font-size: 13px;
+    font-size: 12px;
 }
 
 @media (max-width:600px) {
     .profile{
         margin-top: 60px;
-        margin-left: 60px;
+        margin-left: 10px;
     }
-    .detail{
+    .col-sm-6{
         /* margin: 10px;
         padding: 10px; */
+        margin: 10px;
     }
 }
+
+.btn{
+    padding: 3px;
+    font-weight: bold;
+    margin-left: 7px;
+    font-size: 15px;
+    border-radius: 0px;
+}
+
+.col-sm-6{
+    padding: 10px;
+    margin-top: 50px;
+}
+
