@@ -118,4 +118,10 @@ h3{
     padding: 10px;
     margin-top: 50px;
 }
+.detail h3{
+     font-weight: bold;
+}
+.detail h4{
+     font-weight: bold;
+}
 
