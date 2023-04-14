@@ -1,5 +1,5 @@
 ## My Portfolio!
 
+![Screenshot (38)](https://user-images.githubusercontent.com/84692182/232091608-fdefcf41-0a1d-432d-b236-740ef9c44914.png)
 
-[Screenshot (38)](https://user-images.githubusercontent.com/84692182/232091282-12703faf-958d-4433-8f98-f551a58b89d9.png)
-![Screenshot (39)](https://user-images.githubusercontent.com/84692182/232091298-fe694819-0b3b-4c07-ab75-7808a35ae613.png)
+![Screenshot (39)](https://user-images.githubusercontent.com/84692182/232091678-acf9428e-44e7-4bf8-8a3c-fe0f89260daf.png)
